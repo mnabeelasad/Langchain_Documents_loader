@@ -1,6 +1,3 @@
-Based on your code and the libraries you mentioned (`langchain-community`, `WebabasedLoader`, `DirectoryLoader` `pypdf`, `cvd`, etc.), here's an example of what your `requirements.txt` file should look like:
-
-```txt
 langchain-community>=0.0.1
 langchain-openai>=0.1.0
 pypdf>=2.0.0
